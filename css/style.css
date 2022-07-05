@@ -1,0 +1,19 @@
+body{
+	font-family:arial;
+}
+.a1 h1{
+	text-align:Center;
+	font-weight:bold;
+}
+
+.q1{width:50%;
+	margin:auto;
+}
+
+.q1 h2{
+	text-align:left;
+	font-weight:bold;
+}
+.w1{display:flex;}
+.w2{flex:1;}
+.wq{font-weight:bold;}
